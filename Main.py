@@ -21,6 +21,6 @@ def key_pressed():
 
 
 hotkey = "alt+k"
-user = "USER_TO_KICK"
+user = "Magna"
 keyboard.add_hotkey(hotkey, key_pressed)
 bot.run(token)
